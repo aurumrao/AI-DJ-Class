@@ -64,4 +64,6 @@ canvas {
 }
 .choose_button{
     margin: 5px;
+    color: #999999;
+    border-radius: 10px;
 }
