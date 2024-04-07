@@ -3,6 +3,7 @@ song1 = "";
 song2 = "";
 song3 = "";
 song4 = "";
+scoreLeftWrist = "";
 leftWristX = 0;
 leftWristY = 0;
 rightWristX = 0;
